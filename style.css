@@ -242,6 +242,7 @@ body {
   font-size: 14px;
   color: #7688a4;
   display: flex;
+  align-items: center;
 }
 .more {
   background: #295093;
